@@ -1,1 +1,1 @@
-# Python-Practice
+This repository contains codes pertaining to python related excercises
